@@ -23,7 +23,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-![Horiseon](assets\images\Horiseon.png)
+![Horiseon](https://user-images.githubusercontent.com/123670569/226239813-ebab7608-6008-4f7a-9d1d-94ec71c97cba.png)
 ```
 ```
 
