@@ -22,3 +22,20 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+```
+![Horiseon](assets\images\Horiseon.png)
+```
+```
+
+## Description
+
+```
+A refactoring of code for the Horiseon website
+
+```
+
+## Deployment
+
+```
+https://wes217.github.io/challenge-1/
+
