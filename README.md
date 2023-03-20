@@ -1,13 +1,11 @@
 # Challenge-1
 
 ## User Story
-
 ```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
-
 ## Acceptance Criteria
 
 ```
@@ -24,12 +22,6 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-![Horiseon](assets\images\Horiseon.png)
-
-```
-
-```
-
 ## Description
 
 ```
@@ -43,3 +35,4 @@ A refactoring of code for the Horiseon website
 https://wes217.github.io/challenge-1/
 
 ```
+![Horiseon](assets\images\Horiseon.png)
